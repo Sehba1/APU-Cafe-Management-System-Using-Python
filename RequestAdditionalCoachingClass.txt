@@ -1,0 +1,5 @@
+TP001,Operating Systems and Computer Architecture,Beginner,Pending
+TP003,Programming with Python,Beginner,Pending
+TP007,Programming with Python,Advance,Pending
+TP009,Introduction to Networking,Advance,Pending
+TP00008,Operating Systems and Computer Architecture,Advance,Pending

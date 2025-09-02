@@ -1,0 +1,9 @@
+admin,admin,Administrator,Gmail,ha,pop
+trainer,trainer,Trainer,trainer@mail.apu.edu.my,0123456789,address,level,Introduction to Networking.Beginner+ Introduction to Networking.Intermediate+ Introduction to Networking.Advance
+lecturer,lecturer,Lecturer,lecturer@gmail.apu.edu.my,0199283774,address
+Smith,pw,Trainer,smith@gmail,1002,opop,Beginner,Introduction to Networking.Beginner+Operating Systems and Computer Architecture.Beginner+Programming with Python.Beginner
+John,pw,Trainer,john@gmail.com,019999889,ppoppop,Intermediate,Introduction to Networking.Intermediate+Operating Systems and Computer Architecture.Intermediate+Programming with Python.Intermediate
+Peter,pw,Trainer,peter@gmail.com,019999889,ppoppop,Advance,Introduction to Networking.Advance+Operating Systems and Computer Architecture.Advance+Programming with Python.Advance
+Sia,pw,Trainer,Sia@gmail,09019083,ppoppop,Beginner,Introduction to Networking(Additional).Beginner+Operating Systems and Computer Architecture(Additional).Beginner+Programming with Python(Additional).Advance
+Taylor,pw,Trainer,taylor@gmail.com,019999889,ppoppop,Intermediate,Introduction to Networking(Additional).Intermediate+Operating Systems and Computer Architecture(Additional).Intermediate+Programming with Python(Additional).Intermediate
+Mia,password,Trainer,Mia@gmail.com,60182385,jln 142,Advance,Introduction to Networking(Additional).Advance+Operating Systems and Computer Architecture(Additional).Advance+Programming with Python(Additional).Advance

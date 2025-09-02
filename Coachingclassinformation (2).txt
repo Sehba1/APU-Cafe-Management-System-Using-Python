@@ -1,0 +1,19 @@
+Beginner,Introduction to Networking,B-IN,Smith,Monday, 8:00,10:00, Classroom A-101, 100
+Intermediate,Introduction to Networking,I-IN,John,Monday, 10:30,12:30, Classroom A-102, 150
+Advance,Introduction to Networking,A-IN,Peter,Monday, 10:30,12:30, Classroom A-102, 200
+Beginner,Operating Systems and Computer Architecture,B-OSCA,Smith,Tuesday, 8:00,10:00, Classroom B-201, 100
+Intermediate,Operating Systems and Computer Architecture,I-OSCA,John,Tuesday, 10:30,12:30, Classroom B-202, 150
+Advance,Operating Systems and Computer Architecture,A-OSCA,Peter,Tuesday, 13:30,15:30, Classroom B-203, 200
+Beginner,Programming with Python,B-PP,Smith,Wednesday, 8:00,10:00, Classroom C-301, 100
+Intermediate,Programming with Python,I-PP,Wednesday,John, 10:30,12:30, Classroom C-302, 150
+Advance,Programming with Python,A-PP,Peter,Wednesday, 13:30,15:30, Classroom C-303, 200
+Beginner,Introduction to Networking,B-INA,Sia,Thursday, 8:00,9:00, Classroom A-104, 50,Additional coaching class
+Intermediate,Introduction to Networking,I-INA,Taylor,Thursday, 9:30,10:30, Classroom A-105, 70,Additional coaching class
+Advance,Introduction to Networking,A-INA,Mia,Thursday, 11:00,12:00, Classroom A-106, 90,Additional coaching class
+Beginner,Operating Systems and Computer Architecture,B-OSCAA ,Sia,Friday, 8:00,9:00, Classroom B-204, 50,Additional coaching class
+Intermediate,Operating Systems and Computer Architecture,I-OSCAA,Taylor,Friday, 9:30,10:30, Classroom B-205, 70,Additional coaching class
+Advance,Operating Systems and Computer Architecture,A-OSCAA,Mia,Friday, 11:00,12:00, Classroom B-206, 90,Additional coaching class
+Beginner,Programming with Python,B-PPA,Sia,Wednesday, 16:00,17:00, Classroom C-204, 50,Additional coaching class
+Intermediate,Programming with Python,I-PPA,Taylor,Wednesday, 17:30,18:30, Classroom C-205, 70,Additional coaching class
+Advance,Programming with Python,A-PPA,Mia,Wednesday, 18:30,19:30, Classroom C-206, 90,Additional coaching class
+Advance,Networking,A-NA,Sia,Thursday,8:30,9:30,Classroom D-203,300,Additional coaching class
